@@ -13,6 +13,23 @@
 		F1D49A712A9E4202001E31B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A6F2A9E4202001E31B9 /* Main.storyboard */; };
 		F1D49A732A9E4205001E31B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A722A9E4205001E31B9 /* Assets.xcassets */; };
 		F1D49A762A9E4205001E31B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A742A9E4205001E31B9 /* LaunchScreen.storyboard */; };
+		F1D49A812A9E4374001E31B9 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A802A9E4374001E31B9 /* TableViewController.swift */; };
+		F1D49A832A9E47FD001E31B9 /* NameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A822A9E47FD001E31B9 /* NameCell.swift */; };
+		F1D49A872A9E74E7001E31B9 /* NameRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A862A9E74E7001E31B9 /* NameRow.swift */; };
+		F1D49A8B2A9E97B7001E31B9 /* CamaraCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A892A9E97B7001E31B9 /* CamaraCellTableViewCell.swift */; };
+		F1D49A8C2A9E97B7001E31B9 /* CamaraCellTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A8A2A9E97B7001E31B9 /* CamaraCellTableViewCell.xib */; };
+		F1D49A8F2A9E97F2001E31B9 /* FotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A8D2A9E97F2001E31B9 /* FotoCell.swift */; };
+		F1D49A902A9E97F2001E31B9 /* FotoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A8E2A9E97F2001E31B9 /* FotoCell.xib */; };
+		F1D49A992A9E9882001E31B9 /* NombreCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A972A9E9882001E31B9 /* NombreCell.swift */; };
+		F1D49A9A2A9E9882001E31B9 /* NombreCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A982A9E9882001E31B9 /* NombreCell.xib */; };
+		F1D49A9F2A9E98CD001E31B9 /* NumeroTelefonoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49A9D2A9E98CD001E31B9 /* NumeroTelefonoCell.swift */; };
+		F1D49AA02A9E98CD001E31B9 /* NumeroTelefonoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49A9E2A9E98CD001E31B9 /* NumeroTelefonoCell.xib */; };
+		F1D49AA32A9E98F3001E31B9 /* FechaNacimientoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49AA12A9E98F3001E31B9 /* FechaNacimientoCell.swift */; };
+		F1D49AA42A9E98F3001E31B9 /* FechaNacimientoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49AA22A9E98F3001E31B9 /* FechaNacimientoCell.xib */; };
+		F1D49AA72A9EB55D001E31B9 /* SexoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49AA52A9EB55D001E31B9 /* SexoCell.swift */; };
+		F1D49AA82A9EB55D001E31B9 /* SexoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49AA62A9EB55D001E31B9 /* SexoCell.xib */; };
+		F1D49AAB2A9EB577001E31B9 /* ColorCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D49AA92A9EB577001E31B9 /* ColorCell.swift */; };
+		F1D49AAC2A9EB577001E31B9 /* ColorCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1D49AAA2A9EB577001E31B9 /* ColorCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +41,23 @@
 		F1D49A722A9E4205001E31B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1D49A752A9E4205001E31B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1D49A772A9E4205001E31B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1D49A802A9E4374001E31B9 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		F1D49A822A9E47FD001E31B9 /* NameCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameCell.swift; sourceTree = "<group>"; };
+		F1D49A862A9E74E7001E31B9 /* NameRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameRow.swift; sourceTree = "<group>"; };
+		F1D49A892A9E97B7001E31B9 /* CamaraCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamaraCellTableViewCell.swift; sourceTree = "<group>"; };
+		F1D49A8A2A9E97B7001E31B9 /* CamaraCellTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CamaraCellTableViewCell.xib; sourceTree = "<group>"; };
+		F1D49A8D2A9E97F2001E31B9 /* FotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FotoCell.swift; sourceTree = "<group>"; };
+		F1D49A8E2A9E97F2001E31B9 /* FotoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FotoCell.xib; sourceTree = "<group>"; };
+		F1D49A972A9E9882001E31B9 /* NombreCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NombreCell.swift; sourceTree = "<group>"; };
+		F1D49A982A9E9882001E31B9 /* NombreCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NombreCell.xib; sourceTree = "<group>"; };
+		F1D49A9D2A9E98CD001E31B9 /* NumeroTelefonoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumeroTelefonoCell.swift; sourceTree = "<group>"; };
+		F1D49A9E2A9E98CD001E31B9 /* NumeroTelefonoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NumeroTelefonoCell.xib; sourceTree = "<group>"; };
+		F1D49AA12A9E98F3001E31B9 /* FechaNacimientoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FechaNacimientoCell.swift; sourceTree = "<group>"; };
+		F1D49AA22A9E98F3001E31B9 /* FechaNacimientoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FechaNacimientoCell.xib; sourceTree = "<group>"; };
+		F1D49AA52A9EB55D001E31B9 /* SexoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SexoCell.swift; sourceTree = "<group>"; };
+		F1D49AA62A9EB55D001E31B9 /* SexoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SexoCell.xib; sourceTree = "<group>"; };
+		F1D49AA92A9EB577001E31B9 /* ColorCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCell.swift; sourceTree = "<group>"; };
+		F1D49AAA2A9EB577001E31B9 /* ColorCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ColorCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +92,62 @@
 			children = (
 				F1D49A692A9E4202001E31B9 /* AppDelegate.swift */,
 				F1D49A6B2A9E4202001E31B9 /* SceneDelegate.swift */,
-				F1D49A6D2A9E4202001E31B9 /* ViewController.swift */,
+				F1D49A7D2A9E42ED001E31B9 /* Model */,
+				F1D49A7E2A9E42FD001E31B9 /* View */,
+				F1D49A7F2A9E430B001E31B9 /* Presenter */,
 				F1D49A6F2A9E4202001E31B9 /* Main.storyboard */,
 				F1D49A722A9E4205001E31B9 /* Assets.xcassets */,
 				F1D49A742A9E4205001E31B9 /* LaunchScreen.storyboard */,
 				F1D49A772A9E4205001E31B9 /* Info.plist */,
 			);
 			path = "IOS APP";
+			sourceTree = "<group>";
+		};
+		F1D49A7D2A9E42ED001E31B9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F1D49A822A9E47FD001E31B9 /* NameCell.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F1D49A7E2A9E42FD001E31B9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F1D49A882A9E976D001E31B9 /* CustomCell */,
+				F1D49A6D2A9E4202001E31B9 /* ViewController.swift */,
+				F1D49A802A9E4374001E31B9 /* TableViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F1D49A7F2A9E430B001E31B9 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				F1D49A862A9E74E7001E31B9 /* NameRow.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		F1D49A882A9E976D001E31B9 /* CustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				F1D49A892A9E97B7001E31B9 /* CamaraCellTableViewCell.swift */,
+				F1D49A8A2A9E97B7001E31B9 /* CamaraCellTableViewCell.xib */,
+				F1D49A8D2A9E97F2001E31B9 /* FotoCell.swift */,
+				F1D49A8E2A9E97F2001E31B9 /* FotoCell.xib */,
+				F1D49A972A9E9882001E31B9 /* NombreCell.swift */,
+				F1D49A982A9E9882001E31B9 /* NombreCell.xib */,
+				F1D49A9D2A9E98CD001E31B9 /* NumeroTelefonoCell.swift */,
+				F1D49A9E2A9E98CD001E31B9 /* NumeroTelefonoCell.xib */,
+				F1D49AA12A9E98F3001E31B9 /* FechaNacimientoCell.swift */,
+				F1D49AA22A9E98F3001E31B9 /* FechaNacimientoCell.xib */,
+				F1D49AA52A9EB55D001E31B9 /* SexoCell.swift */,
+				F1D49AA62A9EB55D001E31B9 /* SexoCell.xib */,
+				F1D49AA92A9EB577001E31B9 /* ColorCell.swift */,
+				F1D49AAA2A9EB577001E31B9 /* ColorCell.xib */,
+			);
+			path = CustomCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +208,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1D49A8C2A9E97B7001E31B9 /* CamaraCellTableViewCell.xib in Resources */,
+				F1D49A902A9E97F2001E31B9 /* FotoCell.xib in Resources */,
+				F1D49A9A2A9E9882001E31B9 /* NombreCell.xib in Resources */,
+				F1D49AAC2A9EB577001E31B9 /* ColorCell.xib in Resources */,
 				F1D49A762A9E4205001E31B9 /* LaunchScreen.storyboard in Resources */,
 				F1D49A732A9E4205001E31B9 /* Assets.xcassets in Resources */,
+				F1D49AA02A9E98CD001E31B9 /* NumeroTelefonoCell.xib in Resources */,
+				F1D49AA42A9E98F3001E31B9 /* FechaNacimientoCell.xib in Resources */,
+				F1D49AA82A9EB55D001E31B9 /* SexoCell.xib in Resources */,
 				F1D49A712A9E4202001E31B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,9 +228,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1D49A8B2A9E97B7001E31B9 /* CamaraCellTableViewCell.swift in Sources */,
+				F1D49A872A9E74E7001E31B9 /* NameRow.swift in Sources */,
+				F1D49A992A9E9882001E31B9 /* NombreCell.swift in Sources */,
+				F1D49A9F2A9E98CD001E31B9 /* NumeroTelefonoCell.swift in Sources */,
+				F1D49A8F2A9E97F2001E31B9 /* FotoCell.swift in Sources */,
 				F1D49A6E2A9E4202001E31B9 /* ViewController.swift in Sources */,
 				F1D49A6A2A9E4202001E31B9 /* AppDelegate.swift in Sources */,
 				F1D49A6C2A9E4202001E31B9 /* SceneDelegate.swift in Sources */,
+				F1D49A832A9E47FD001E31B9 /* NameCell.swift in Sources */,
+				F1D49AAB2A9EB577001E31B9 /* ColorCell.swift in Sources */,
+				F1D49AA32A9E98F3001E31B9 /* FechaNacimientoCell.swift in Sources */,
+				F1D49AA72A9EB55D001E31B9 /* SexoCell.swift in Sources */,
+				F1D49A812A9E4374001E31B9 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
